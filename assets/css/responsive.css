@@ -1,0 +1,44 @@
+/* This is not responsive with best way */
+@media (min-width:700px) and (max-width:800px){
+    .tbox { 
+      width: 660px; 
+    }
+  }
+  
+  @media (min-width:410px) and (max-width:700px){
+    .tbox { 
+      width: 400px; 
+    }
+  }
+  
+  @media (min-width:320px) and (max-width:410px){
+    .tarmn-body {
+      height: 100vh; 
+      min-height: 441px; 
+    }
+    .tbox { 
+      width: 300px; 
+    }
+    .terminal { 
+      height: 250px;
+      padding: 15px;
+    }
+    h4.title {
+      font-size: 18px; 
+    }
+    .type-here span a { 
+      font-size: 13px;
+    }
+    .type-here span input {
+      width: 105px; 
+      padding-left: 10px;
+      font-size: 13px; 
+    }
+    .type-here {
+      margin-top: 20px;
+    }
+    h5 {
+      font-size: 16px;
+    }
+  }
+  
