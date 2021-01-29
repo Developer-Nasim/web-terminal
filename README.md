@@ -1,5 +1,6 @@
 # web-terminal
-https://i.ibb.co/n8rnTXh/ajnasim-front-end-developer-software-developer.png
+
+
 <img src="https://i.ibb.co/n8rnTXh/ajnasim-front-end-developer-software-developer.png" alt="ajnasim-front-end-developer-software-developer" border="0">
 
 
