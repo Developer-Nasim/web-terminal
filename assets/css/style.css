@@ -166,7 +166,7 @@ ul.menus {
   padding-left: 30px;
 }
 
-ul.menus li {
+ul.menus li,ul.menus li a {
   color: #64f105;
   text-transform: capitalize;
 }
