@@ -57,7 +57,10 @@ li {
   margin-bottom: 5px;
   margin-top: 10px;
  }
-
+ p {
+  margin-bottom: 10px;
+  line-height: 20px;
+}
 
 /* default-css END 
 ================================== */
